@@ -5,10 +5,7 @@ Added 3 lines of <code> From Desktop!
 
 
 Added new 5 lines of <code>!
-<<<<<<< HEAD
-//Changes made to master branch!
-=======
 
+//Changes made to master branch!
 
 Now testing editing lines of <code> with new branch: "develop"!
->>>>>>> remotes/origin/develop
